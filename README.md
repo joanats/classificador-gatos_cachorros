@@ -53,8 +53,6 @@ case_cats_and_dogs/
 │ ├── class_cat/ 
 │ └── class_dog/
 ├── melhor_modelo_gatos_cachorros.pkl
-├── logistic_regression.csv
-├── random_forest.csv
 ├── README.md
 └── requirements.txt
 
